@@ -1,5 +1,5 @@
 # Digvijaysinh Ajarekar
-----------------------------------------------------------------------------------------------------------------------
+
 ### Hi there 👋
 
 I am Digvijay, I am an AI Enthusiast. My main intreset lies in Deep Learning. I have extra knowldge of tensorflow lite and Google Flutter.
