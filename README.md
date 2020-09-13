@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Artificial Intelligence projects
 - 🤔 I’m looking for help with Data Augmentation and Data Preprocessing
 - 💬 Ask me about TensorFlow, CNN, ANN.
-- 📫 How to reach me: Follow me on LinkedIN(www.linkedin.com/in/digvijaysinh-ajarekar) or contact me directly at (digvijayajarekar.0@gmail.com) 
+- 📫 How to reach me: Follow me on [LinkedIN](www.linkedin.com/in/digvijaysinh-ajarekar) or contact me directly on this mail digvijayajarekar.0@gmail.com 
 - 😄 Pronouns: You can give me one.
 - ⚡ Fun fact: Can't work without music.
 -->
