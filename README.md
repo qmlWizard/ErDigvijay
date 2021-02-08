@@ -6,8 +6,8 @@ I am Digvijay, I am an AI Enthusiast. My main intreset lies in Deep Learning. I 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Deep Learning project (Skin Cancer Detection App).
-- 🌱 I’m currently learning Data Processing and Tunning of hyperparameters
+- 🔭 I’m currently working on Multidirectional Coveyer Sorting Table 
+- 🌱 I’m currently learning Quantum Gates and Quantum Mechanics 
 - 👯 I’m looking to collaborate on Artificial Intelligence projects
 - 🤔 I’m looking for help with Data Augmentation and Data Preprocessing
 - 💬 Ask me about TensorFlow, CNN, ANN.
