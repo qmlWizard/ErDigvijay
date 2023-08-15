@@ -6,7 +6,7 @@ I am Digvijay, I am an AI Enthusiast. My main intreset lies in Quantum Machine L
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Molecular Simulations using Quantum Computing
+- 🔭 I’m currently working on Quantum Computing
 - 🌱 I’m currently learning Quantum Algorithms and Quantum Mechanics 
 - 👯 I’m looking to collaborate on Quantum Computing projects
 - 💬 Ask me about TensorFlow, CNN, ANN.
